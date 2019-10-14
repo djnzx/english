@@ -1,0 +1,48 @@
+=:
+reach the asymptote
+reach the plato
+flatten
+
+^:
+climb
+incline
+increase
+develop
+explode
+grow
+rise
+rocket
+soar
+surge
+proliferation
+
+V:
+collapse
+decline
+decrease
+drop
+fail
+fall
+plummet
+plunge
+stagnation
+
+ADJ/ADV (-ly):
+considerable
+dramatic
+gradual
+rapid
+sharp
+significant
+slight
+slow
+steady
+
+10 times fold
+to level of ...
+to reach a plato ...
+to stabilize
+to fluctuate
+
+to decrease slightly
+to slight decrease

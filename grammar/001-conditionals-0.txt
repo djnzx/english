@@ -1,0 +1,15 @@
+-----------------
+Zero conditional:
+-----------------
+Things in general, obvious, always true, so as a consequence, no condition.
+Structure: if + (clause: present simple), (result: present simple)
+If we heat the ice, it melts.
+If we heat the water, it boils.
+If it rains, we get wet.
+
+-----------------
+Zero conditional, inverted:
+-----------------
+Structure: should + (clause: present simple), (result: present simple)
+Should we heat the ice, it melts.
+Should it rain, we get wet.

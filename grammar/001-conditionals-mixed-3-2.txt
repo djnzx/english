@@ -1,0 +1,14 @@
+--------------------------
+Mixed conditional 1 (3+2).
+--------------------------
+Cause in the past. Result in the present.
+If I had used another library, It would be better now.
+If he had been aware of that approach, he wouldn't face this problem today.
+If he hadn't jumped from the cliff last year, he would be alive now.
+
+--------------------------
+Mixed conditional 1 (3+2), inverted:
+--------------------------
+Had I used another library, It would be better now.
+Had he been aware of that approach, he wouldn't face this problem today.
+Had he not jumped from the cliff last year, he would be alive now.

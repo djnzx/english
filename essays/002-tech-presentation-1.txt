@@ -1,0 +1,30 @@
+It was a long time ago on a cold winter evening 1987 after the Chernobyl explosion.
+I was sitting in front of my TV and wondering why we spend only one school hour a week in front of a computer to study such serious skills as programming.
+There was only one computer in my school.
+And only a few people were able to cope with them, and then a very small number were able to accomplish the given tasks.
+I was thinking about how to overcome the lack of computers in the classroom.
+From friends of mine, I heard once about one smart man who had published an electric scheme and manual on how to build a personal computer. I was eagerly looking for that manual, and finally, I've found it and started analyzing which parts were available for purchase at the local market and which ones should be delivered.
+
+In a half year, I finally made my first computer. Since that moment, my life was never the same.
+There were no monitors available, so my computer was connected to the TV.
+I was spending an enormous amount of time in front of it.
+Very few programming languages were available at that time — only BASIC and Assembler.
+So I started learning both by using xerox copies of artificial books.
+There was no Google, no StackOverflow, no IDE at that moment, also no HDD, and no Flash drives.
+Only cassette tape to retain your work results.
+The learning process was very long, slow, tedious, and error-prone.
+
+The first meaningful program, I was paid for, I wrote in 1991.
+It was a hyphenation application for desktop publishing.
+In 1992 I started my study on the Applied Mathematics faculty at the Kyiv Polytechnic Institute.
+Until 1998 I was able to write code in a bunch of languages such as Basic, Assembler, Fortran, Pascal, Modula2, C, C++, Delphi.
+In 1999 I got a relatively high position in Kyiv local company and started to code in Java, C++ industrial applications for call-centers and contact centers.
+In 2001 I started managing a group of developers, which until 2011 grew up to 75 people.
+In 2012 I realized my will for sharing the experience, so I've started teaching, training, and consulting.
+So, since 1991, I write a code every day.
+Nowadays, I write mostly in Scala, Java, TypeScript, JavaScript, and Elixir.
+I have experience in very different fields such as Banking, Industrial Automation, Call-centres, Contact-Centers, Inquiry-Systems, Mobile content delivery, Billing, CRM / ERP systems, Logistics systems, Desktop Publishing, IoT, and many many more.
+I have a lot of experience in all positions from a conventional developer and system administrator to C-level management, business owner, head of the supervisory board, and finally, I still am a teacher and mentor.
+So, I'm lucky and proud of being here to share my knowledge.
+I would like to emphasize that I started learning English only in 2017, so please be patient if sometimes I stumble trying to pick the most suitable word from my such intricated brains.
+Thanks in advance!

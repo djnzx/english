@@ -1,0 +1,4 @@
+Data structures fall into two categories: linear and non-linear.
+A data structure is said to be linear if it can be represented in sequence without any cycles.
+
+I can’t say with a precision ...
