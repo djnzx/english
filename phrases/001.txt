@@ -1,4 +1,12 @@
 Data structures fall into two categories: linear and non-linear.
 A data structure is said to be linear if it can be represented in sequence without any cycles.
+It doesn't matter. What really matters is ...
 
 I can’t say with a precision ...
+Be attentive to extra spaces in `login` and `password`
+
+It looks as if something went wrong.
+Please make a fresh clone of remote repository via Project/New from remote/Git.
+How it was? It isn't supposed to be easy. If it were easy, everyone would be able to do it.
+No problem. You are welcome. Every question is appreciated.
+
