@@ -1,0 +1,86 @@
+Present Simple Active
+----------------------
+	I build the house.
+	I don't build the house.
+	Do I build the house? Don't I?
+	Don't I build the house? Do I?
+	Who builds the house?
+	Who doesn't build the house?
+	What do you build?
+	What don't you build?
+	...
+	Why do you build the house?
+	Why don't you build the house?
+	What do you do with the house?
+	What don't you do with the house?
+	When do you build the house?
+
+Present Simple Passive
+----------------------
+	The house is built.
+	The house is not built.
+	Is the house built?
+	Isn't the house built?
+	Where is the house built?
+	Where is the house not built?
+	Why is the house built?
+	Why is the house not built?
+	What is built?
+	What is not built?
+	What is done with the house?
+	What isn't done with the house?
+
+Past Simple Active
+------------------
+	I built the house.
+	I didn't build the house.
+	Did I build the house?
+	Didn't I build the house?
+	Who built the house?
+	Who did not build a house?
+	What did I build?
+	What didn't I build?
+	What did I do with the house?
+
+Past Simple Passive
+-------------------
+	The house was built.
+	The house wasn't built.
+	Was the house built?
+	Wasn't the house built?
+	Was the house not built?
+	Where was the house built?
+	Where was the house not built?
+	Why was the house built?
+	Why was the house not built?
+	What was done with the house?
+	What wasn't done with the house?
+
+Future Simple Active
+--------------------
+	I will build the house.
+	I won't build the house.
+	Will I build the house?
+	Won't I build the house?
+	Who will build the house?
+	Who won't build the house?
+	What will I build?
+	What won't I build?
+	What will I do with the house?
+	What won't I do with the house?
+	What will I not do with the house?
+
+Future Simple Passive
+---------------------
+	The house will be built.
+	The house won't be built.
+	Will the house be built?
+	Won't the house be built?
+	Where will the house be built?
+	Where will the house not be built?
+	Why will the house be built?
+	Why will the house not be built?
+	What will be built?
+	What won't be built?
+	What will be done with the house?
+	What won't be done with the house?
