@@ -1,0 +1,6 @@
+That being said, the ...
+
+All Data structures fall into two categories: Linear and Non-Linear.
+A data structure __is said to be__ linear if the elements form a sequence, for example Array, Linked list, queue etc.
+
+That was the time in my life I wish I had spent differently...
