@@ -1,0 +1,208 @@
+Books.
+Since my school time and until now, I have gathered more than one thousand books on different topics, including Math, Algebra, Programming, Management, Philosophy, Psychology, Management, and so on.
+Mostly, I need to read only 20-40% of the book, and everything becomes clear.
+Definitely, some of them are exciting and captivating, some of them boring and ugly.
+But the main idea is I always can take my book and dive into it, should I need it. I don't need to spend enormous time in Google and quickly become distracted because of massive advertising and pop-ups.
+The book is the fastest way to get into the topic.
+The book is the cheapest way to embrace details.
+The book is the most consistent way to obtain knowledge.
+At least a person, who wrote that book, spent a lot of time to make it digestible.
+Just read the books. Spend your time wisely!
+------
+Do not care about Software Developers.
+They are mostly smart enough to fix almost any problem.
+Teach, train, and develop the right communication and processes in the company.
+Got the information? Check the source? Ok.
+Check the expiration date. Still valid? Ok.
+Is it relevant to you? Ok.
+Take it into account! Use it!
+Isn't it relevant to you?
+Forward immediately!
+Do not hinder the information dissemination!
+------
+1 + 1 > 2. One plus one is always more than two. Yes.
+What do I mean by saying this?
+I mean that two experts or two specialists in their domain areas having good communication skills can produce far, far more than they can deliver by themselves solely.
+#mood #communication #teaching #learning
+------
+
+Junior, Technical capabilities:
+Understanding relevant programming languages (Java, Kotlin, Swift, JS), technologies (HTTP, REST, …), frameworks, and tools (GIT, JUnit)
+Algorithms
+Ability to deliver functional products based on user stories:
+Front: Mobile Apps with UI, logic, remote data consumption via RESTful API
+Backend: RESTful APIs implementing business logic, expose data, consume third-party services.
+Ability to incorporate modern design patterns. MVC, MVP, DDD, etc.
+Embraces (unit, integrational, functional) testing (different methodologies) as a critical part of modern application development
+Junior, Engineering practices:
+Demonstration of basic software engineering practices and discipline
+engineering paradigms, code quality, code review, version control, and test automation
+Ability to learn key technology topics on the job
+Has potential and put efforts to build digital products using best-practice engineering
+
+
+Current situation (just facts):
+We took applicants with and without development experience.
+We didn’t have a clear vision of the final aim. We just took a general program
+Mostly, students don’t read and watch given materials that are required for topic understanding.
+Students ask questions: “What I need to see to finish my homework.”
+Six hours of evening lessons. No way to keep focused on more than 3 hours in the evening after a day spent at a job or university.
+Tough pace.
+Absolutely different level of information absorbing
+As a result, we have
+15% - absolute rock stars,
+50% - in the middle of nowhere,
+35% - completely lost
+Today both groups seriously behind the initial schedule
+Two backend groups are in the different places of the schedule.
+…
+
+ What can we do, and we need to do in general:
+
+Decide whether we are the conventional school, and we just invest in the future of the nation, or we prepare guys who will become our employees in the future.
+Strictly put the well-grained borders and well-detailed list of requirements into action
+Finally admit, that with the given pace, 6 hours evening isn’t possible, and there is no sense to waste these 6 hours in the evening.
+Decide how we understand that our students have consumed and can use the knowledge given (acceptance criteria)
+Put into action intermediate testing with a clear bar (what is the sense to keep explaining the same topic twice?)
+Probably split our Course at least into two: Programming Essentials (language agnostic) and Development Basics (basic algorithms and data structures), and only after that start Mobile Development, Frontend Development, and Backend Development
+The Course is too dense. More practice means less theory. We need somehow to explain to our students that they need to be prepared.
+Have more simple tasks, more practical step-by-step ones to fulfill.
+
+What can we do right now? And I think, that is only the solution at that moment:
+
+Completely get rid of a Spring Framework part from that Course
+Stretch algorithms part at least to two weeks (It is relatively easy to find a lot of tasks on that topic)
+Stretch database-related part, because only one thing matters in that world and this is our data we need to retain and obtain later
+Stretch Java Web part to give a deeper understanding of HTTP, REST, Cookies, Session, etc.
+Introduce Design Pattern topic to give 5-10 the most widely used ones
+Stretch the first step project to two weeks
+Stretch the second step project to two weeks
+Get rid of the final project, supposed to be written in Spring
+Develop a separate course dedicated to Spring Framework, keeping in mind that students enrolled in that Course successfully finished the current Course.
+I don’t think that making the current Course longer will lead to achieving better results. Because we already have groups with students with completely different starting conditions. We still don’t have clear requirements, but we are in the middle of the Course.
+We need to develop a new course, maybe a series of entirely new courses taking into account the requirements given by IBA. Taking into account the lessons learned, the knowledge we got during conducting these two courses (1st and 2nd).
+We need to stop giving certificates to 90% of students. I do believe that the best we can do is achieve 60-70%. Not everything depends on us. We are doing the best, but we work with people. They have different motivations, goals, skills, abilities, etc.
+We brought the term quality to the table. Didn’t we?
+------
+The proof. The evidence. The absence of evidence. The assumption.
+Very often, we substitute these terms in the wrong, sometimes in a very wrong manner. Why do we do that? Because we are humans, we don't pay enough attention to a strict math relation between them. We just use them somehow.
+If we have evidence, we can assume something, but not prove.
+If we don't have evidence, we still can assume something, maybe different, but again can prove nothing.
+In order to have proof, we need to have an exhaustive set of evidence. That means, we have checked all possible set of incoming data or information. We have evidence for all, absolutely all input data.
+If we don't have even one input dataset checked, that still means we have evidence of something, but not a proof, so we have the only assumption.
+Also, having the absence of evidence, we can't have proof of negative assumptions. We still can have an assumption of something, again different
+So, be careful with these terms and statements negation.
+
+#math #logic #longway #scala #learning #teaching
+------
+Where to write or what to write?
+I keep getting the question, "What should I write to solve this task?"
+But in my opinion, that is the wrong question. I will explain why.
+Nowadays, we have a very complicated, often asynchronous code. We need to take into account a lot of different things. We can write code in a lot of different places, but sometimes after writing code in the inappropriate place, there are no more ways to fix the further problem.
+That's easy to google what to write. But sometimes it takes hours and even days to pick the appropriate place for your code. Sometimes it can lead to complicated architectural changes.
+So, learn where to write, not what to write. What to write can be found on Google.
+Solve the problems in an appropriate place.
+#code #structure #learning
+
+------
+There is no silver bullet.
+There is no one good thing.
+There are millions of solutions with their pros and cons.
+Pick a suitable one in the appropriate situation.
+Take into account only things matter exactly at that moment.
+Each solution has an enormous amount of drawbacks.
+But we don't care.
+We do care about things that matter.
+------
+What should I see?
+I keep getting the same question "What should I see or read to accomplish homework?"
+And actually, there is no answer to this question.
+This question, in itself, contains at least two serious mistakes.
+First one. The verb see. The word "see" doesn't imply any learning steps or even movement towards understanding. The phrase read is better, but still wrong in that context.
+In order to accomplish or at least do your homework, you need to get several things. You need to understand the topic. You don't need to see it. It would be best if you watched it, practice and repeat, sometimes, several times. And you need to understand which part of a particular task belongs to the new topic.
+The second one. "To accomplish homework." The task isn't homework done. The mission is topic is understood, and homework accomplished is kind of consequence or evidence of that.
+To finalize, I want to say please pick the right words to express yourself.
+You will be more likely to get an answer and an explanation.
+------
+Hello!
+In this letter, I want to share with you some significant details about me and my motivation.
+I have quite a long experience in software development. My commercial development career started in 1991 from languages like assembler and C.
+But I'm not a conventional developer. I have never worked nine to five with one language, library, or framework and company. I've been continuously looking for improvements, boilerplate elimination, picking right abstractions, writing functions as pure as possible in the OOP world, proper domain representation, laziness, and deferring side effects as late as possible. I'm language agnostic.
+I had been working not only in a normal position like a developer and DevOps but also in CxO management, bank advisory board, business owner, and various others. But seven years ago, I decided to start sharing my experience. I've sold my business. Last three years, I have been teaching Java / Scala, System Analysis, and Art of Decomposition on an everyday basis.
+My experience embraces different domains like math, nuclear station, industrial automation, call centers, contact centers, mobile content delivery, billing, banking, supply-delivery chain, taxi, warehouse management, logistics, and much more.
+But even during working at relatively high and executive positions, where I wasn't supposed to write code, I kept writing code every day. And I keep writing.
+But my primary expertise is domain model representation, determining the processes and joining points to make everything composable, reusable, scalable, testable, and maintainable.
+And I also want to say that the more I write Java OOP code, the closer it resembles FP. Everything is final, and everything is lazy, with no getters and setters, no nulls.
+Two years ago, I decided to put all of my efforts into data transformation representation.
+But, unfortunately, with Java language, it is impossible. It has too verbose syntax, and there is no way to produce readable and expressive code.
+I've found Scala. Once I met Martin Odersky and John De Goes, my life will never be the same. Probably the Scala is the most expressive language on that Planet. And I find it easy, maybe because of my primary education MA and Ph.D. in Applied Math.
+And, the more I teach and explain how things are constructed, the more I understand I want to keep coding, but on the completely new level, by applying all modern techniques, especially FP.
+I'm sick and tired of Spring and Hibernate offers in my home country.
+When I decided to start teaching and mentoring the motivation was I have much knowledge, I want to share it.
+Right now, the motivation is I have learned far more than I can share via teaching and mentoring. I want to write something new, meaningful, exciting, and useful. I want to write expressive and clean code.
+Also, I want to say modern people mostly don't want to understand not only subtle details but even conventional details they need to know to write code. They want to get minimal knowledge to earn 1-2K/moth. That's scary.
+What struck me up was that your company specializes in functional programming and declares it from the very first moment.
+Actually, I want to get more practical experience with the Scala language in real projects and share all of my knowledge and approaches.
+I am looking forward to hearing from you.
+
+Alex
+------
+Signify.
+Hello!
+I found your company during web surfing looking for remote scala FP developers.
+I have quite a long experience in software development. My commercial development career started in 1991 from languages like assembler and C.
+But I'm not a conventional developer. I have never worked nine to five with one language, library, or framework and company. I've been continuously looking for improvements, boilerplate elimination, picking right abstractions, writing functions as pure as possible in the OOP world, proper domain representation, laziness, and deferring side effects as late as possible.
+I had been working not only in a normal position like a developer and DevOps but also in CxO management, bank advisory board, business owner, and various others. But seven years ago, I decided to start sharing my experience. I've sold my business. Last three years, I have been teaching Java / Scala, System Analysis, and Art of Decomposition on an everyday basis.
+My experience embraces different domains like math, nuclear station, industrial automation, call centers, contact centers, mobile content delivery, billing, banking, supply-delivery chain, taxi, warehouse management, logistics, and much more.
+But even during working at relatively high and executive positions, where I wasn't supposed to write code, I kept writing code every day. And I keep writing.
+But my primary expertise is domain model representation, determining the processes and joining points to make everything composable, reusable, scalable, testable, and maintainable.
+And I also want to say that the more I write Java OOP code, the closer it resembles FP. Everything is final, and everything is lazy, with no getters and setters, no nulls.
+Two years ago, I decided to put all of my efforts into data transformation representation.
+But, unfortunately, with Java language, it is impossible. It has too verbose syntax, and there is no way to produce readable and expressive code.
+I've found Scala. Once I met Martin Odersky and John De Goes, my life will never be the same. Probably the Scala is the most expressive language on that Planet. And I find it easy, maybe because of my primary education MA and Ph.D. in Applied Math.
+And, the more I teach and explain how things are constructed, the more I understand I want to keep coding, but on the completely new level, by applying all modern techniques, especially FP.
+I'm sick and tired of Spring and Hibernate offers in my home country.
+When I decided to start teaching and mentoring the motivation was I have much knowledge, I want to share it.
+Right now, the motivation is I have learned far more than I can share via teaching and mentoring. I want to write something new, meaningful, exciting, and useful. I want to write expressive and clean code.
+Also, I want to say modern people mostly don't want to understand not only subtle details but even conventional details they need to know to write code. They want to get minimal knowledge to earn 1-2K/moth. That's scary.
+What struck me up was that your company specializes in functional programming and declares it from the very first moment.
+Actually, I want to get practical experience with the Scala language in real projects.
+Therefore, I'm looking for a remote Scala Developer position.
+
+I am looking forward to hearing from you.
+Alex
+------
+Abstraction.
+During my long teaching career, I keep getting the same question "Abstraction. What does it mean, how to use it?"
+When you have been coding for almost 30 years, the answer is obvious.
+But how to explain that term to newcomers? Let's dive into Wikipedia, or Cambridge dictionary. Nothing useful. Pure math definition. Useless for newcomers.
+Let's dive into the language. The word abstraction came from word subtraction. Subtraction is easy, even for kids.
+We take something (entity, process, any description), and subtract the details we are not interested in right now. We focus only on things we do care about right now.
+For example, the Post office does care about parcel delivery. Do they care about content? No. Do they interest in these details? No.
+They do care only about size, weight, destination, and delivery date.
+We can say, "they abstract over the parcel content."
+I work on the parcel sort station. Do I care about the delivery date? No. Is this information useful for me right now? No.
+I do care only about the destination address.
+"I abstract over all details of the parcel," but delivery address. I need to put this parcel into a corresponding track.
+That's easy. But sometimes it is tough to explain.
+Just choose the right abstraction level.
+#programming #teaching #longway
+------
+I'm reading your articles for the last five years. I have all of your books. I don't understand why not code in Scala in a pure or semi-pure way. All of your ideas have good reflection and already implemented in Scala out of the box. Five years ago, I got rid of Spring and Hibernate from my CV. Last year I got rid of Java, and as a consequence, I joined to brilliant World of FP, Scala, and unambiguous code.
+Yes, and Scala 3 (dotty project) won't have annotations that can be processed in runtime.
+And I had been doing OOP for more than twenty years.
+Nowadays, If I need to implement some features in Java, I will put data in classes where everything public and final, and, it depends on the situation, I'll add some methods to that classes or create ten interfaces with one-two methods, and implement them in 100 classes.
+------
+Knowledge.
+Does knowledge exist?
+It may seem obvious, but very often we speak, our responders don't understand us, or even worse. They understand us differently. Completely differently.
+Why?
+The answer is easy :)
+Words mean nothing. In our brains, we have kind of maps, a lot of maps, different maps according to different domain areas. Sometimes they connected or related to each other. Sometimes no.
+There is no absolute knowledge. There is no absolute meaning.
+There is aways context implied. There are many things we take for granted.
+By saying the same words, people can understand you wrong because of ambiguity and context implied, different meanings, etc.
+Please always check whether the respondent understood precisely, what you wanted to tell them, not what you said.
+"The map isn't a territory."
+#nlp #implicity #context
+------
